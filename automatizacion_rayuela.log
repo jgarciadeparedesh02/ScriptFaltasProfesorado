@@ -4,3 +4,103 @@
 2026-04-08 08:25:40 | INFO     | 🛑 PASO 1: Inicia sesión en Rayuela.
 2026-04-08 08:25:40 | INFO     | 🛑 PASO 2: Navega hasta el listado de profesores (Página 1).
 2026-04-08 08:26:02 | INFO     | ▶️ Usuario confirmó inicio. Arrancando procesamiento...
+2026-04-08 08:36:25 | INFO     | 📂 Leyendo archivo: ausencias.csv
+2026-04-08 08:36:25 | ERROR    | ❌ No se encontró la columna 'Nombre'. Columnas detectadas: ['Nombre,"Fecha Inicio","Fecha Fin","Horas Lectivas",Motivo,Registrado']
+2026-04-08 08:36:46 | INFO     | 📂 Leyendo archivo: ausencias.csv
+2026-04-08 08:36:46 | INFO     | 🚀 Iniciando el navegador Chrome...
+2026-04-08 08:36:47 | INFO     | 🌐 Navegando a: https://rayuela.educarex.es/modulo_acceso/
+2026-04-08 08:36:48 | INFO     | 🛑 PASO 1: Inicia sesión en Rayuela.
+2026-04-08 08:36:48 | INFO     | 🛑 PASO 2: Navega hasta el listado de profesores (Página 1).
+2026-04-08 08:37:03 | INFO     | ▶️ Usuario confirmó inicio. Arrancando bucle de procesamiento...
+2026-04-08 08:37:03 | INFO     | --------------------------------------------------
+2026-04-08 08:37:03 | INFO     | [1/107] 🔄 PROCESANDO: Agúndez Fernández, Laura
+2026-04-08 08:37:03 | INFO     |    📋 Datos a introducir -> Inicio: 09/03/2026 | Fin: 09/03/2026 | Horas: '' | Motivo: 'Visita médica'
+2026-04-08 08:37:03 | INFO     |    🔎 Buscando en listado a: 'AGUNDEZ FERNANDEZ, LAURA'
+2026-04-08 08:37:05 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
+2026-04-08 08:37:05 | ERROR    |    ❌ FALLO CRÍTICO procesando a Agúndez Fernández, Laura: No se encontró a 'Agúndez Fernández, Laura' en el listado.
+2026-04-08 08:37:05 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 08:37:05 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 08:37:08 | INFO     | --------------------------------------------------
+2026-04-08 08:37:08 | INFO     | [2/107] 🔄 PROCESANDO: Agúndez Fernández, Laura
+2026-04-08 08:37:08 | INFO     |    📋 Datos a introducir -> Inicio: 09/03/2026 | Fin: 09/03/2026 | Horas: '' | Motivo: 'Asuntos particulares'
+2026-04-08 08:37:08 | INFO     |    🔎 Buscando en listado a: 'AGUNDEZ FERNANDEZ, LAURA'
+2026-04-08 08:37:09 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
+2026-04-08 08:37:09 | ERROR    |    ❌ FALLO CRÍTICO procesando a Agúndez Fernández, Laura: No se encontró a 'Agúndez Fernández, Laura' en el listado.
+2026-04-08 08:37:09 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 08:37:09 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 08:37:12 | INFO     | --------------------------------------------------
+2026-04-08 08:37:12 | INFO     | [3/107] 🔄 PROCESANDO: Alonso Alegre, María Justa
+2026-04-08 08:37:12 | INFO     |    📋 Datos a introducir -> Inicio: 02/03/2026 | Fin: 02/03/2026 | Horas: '03:00' | Motivo: 'ACOMPAÑA A UN GRUPO EN ACTIVIDAD'
+2026-04-08 08:37:12 | INFO     |    🔎 Buscando en listado a: 'ALONSO ALEGRE, MARIA JUSTA'
+2026-04-08 08:37:13 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
+2026-04-08 08:37:13 | ERROR    |    ❌ FALLO CRÍTICO procesando a Alonso Alegre, María Justa: No se encontró a 'Alonso Alegre, María Justa' en el listado.
+2026-04-08 08:37:13 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 08:37:13 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 08:37:16 | INFO     | --------------------------------------------------
+2026-04-08 08:37:16 | INFO     | [4/107] 🔄 PROCESANDO: Alonso Alegre, María Justa
+2026-04-08 08:37:16 | INFO     |    📋 Datos a introducir -> Inicio: 23/03/2026 | Fin: 23/03/2026 | Horas: '' | Motivo: 'Asuntos particulares'
+2026-04-08 08:37:16 | INFO     |    🔎 Buscando en listado a: 'ALONSO ALEGRE, MARIA JUSTA'
+2026-04-08 08:37:17 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
+2026-04-08 08:37:17 | ERROR    |    ❌ FALLO CRÍTICO procesando a Alonso Alegre, María Justa: No se encontró a 'Alonso Alegre, María Justa' en el listado.
+2026-04-08 08:37:17 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 08:37:18 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 08:37:20 | INFO     | --------------------------------------------------
+2026-04-08 08:37:20 | INFO     | [5/107] 🔄 PROCESANDO: Álvarez Durán, José María
+2026-04-08 08:37:20 | INFO     |    📋 Datos a introducir -> Inicio: 02/03/2026 | Fin: 02/03/2026 | Horas: '02:00' | Motivo: 'ACOMPAÑA A UN GRUPO EN ACTIVIDAD'
+2026-04-08 08:37:20 | INFO     |    🔎 Buscando en listado a: 'ALVAREZ DURAN, JOSE MARIA'
+2026-04-08 08:37:21 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
+2026-04-08 08:37:21 | ERROR    |    ❌ FALLO CRÍTICO procesando a Álvarez Durán, José María: No se encontró a 'Álvarez Durán, José María' en el listado.
+2026-04-08 08:37:21 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 08:37:21 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 08:37:21 | INFO     | --------------------------------------------------
+2026-04-08 08:37:21 | INFO     | [6/107] 🔄 PROCESANDO: Álvarez Durán, José María
+2026-04-08 08:37:21 | INFO     |    📋 Datos a introducir -> Inicio: 18/03/2026 | Fin: 18/03/2026 | Horas: '02:00' | Motivo: 'Visita médica'
+2026-04-08 08:37:21 | INFO     |    🔎 Buscando en listado a: 'ALVAREZ DURAN, JOSE MARIA'
+2026-04-08 08:37:23 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
+2026-04-08 08:37:23 | ERROR    |    ❌ FALLO CRÍTICO procesando a Álvarez Durán, José María: No se encontró a 'Álvarez Durán, José María' en el listado.
+2026-04-08 08:37:23 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 08:37:23 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 08:37:26 | INFO     | --------------------------------------------------
+2026-04-08 08:37:26 | INFO     | [7/107] 🔄 PROCESANDO: Aranda Calle, M. Ángeles
+2026-04-08 08:37:26 | INFO     |    📋 Datos a introducir -> Inicio: 04/03/2026 | Fin: 04/03/2026 | Horas: '' | Motivo: 'Visita médica'
+2026-04-08 08:37:26 | INFO     |    🔎 Buscando en listado a: 'ARANDA CALLE, M. ANGELES'
+2026-04-08 08:37:27 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
+2026-04-08 08:37:27 | ERROR    |    ❌ FALLO CRÍTICO procesando a Aranda Calle, M. Ángeles: No se encontró a 'Aranda Calle, M. Ángeles' en el listado.
+2026-04-08 08:37:27 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 08:37:27 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 08:37:30 | INFO     | --------------------------------------------------
+2026-04-08 08:37:30 | INFO     | [8/107] 🔄 PROCESANDO: Aranda Calle, M. Ángeles
+2026-04-08 08:37:30 | INFO     |    📋 Datos a introducir -> Inicio: 05/03/2026 | Fin: 05/03/2026 | Horas: '' | Motivo: 'Enfermedad'
+2026-04-08 08:37:30 | INFO     |    🔎 Buscando en listado a: 'ARANDA CALLE, M. ANGELES'
+2026-04-08 08:37:31 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
+2026-04-08 08:37:31 | ERROR    |    ❌ FALLO CRÍTICO procesando a Aranda Calle, M. Ángeles: No se encontró a 'Aranda Calle, M. Ángeles' en el listado.
+2026-04-08 08:37:31 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 08:37:31 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 08:37:35 | INFO     | --------------------------------------------------
+2026-04-08 08:37:35 | INFO     | [9/107] 🔄 PROCESANDO: Aranda Calle, M. Ángeles
+2026-04-08 08:37:35 | INFO     |    📋 Datos a introducir -> Inicio: 06/03/2026 | Fin: 06/03/2026 | Horas: '' | Motivo: 'Excursion'
+2026-04-08 08:37:35 | INFO     |    🔎 Buscando en listado a: 'ARANDA CALLE, M. ANGELES'
+2026-04-08 08:37:36 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
+2026-04-08 08:37:36 | ERROR    |    ❌ FALLO CRÍTICO procesando a Aranda Calle, M. Ángeles: No se encontró a 'Aranda Calle, M. Ángeles' en el listado.
+2026-04-08 08:37:36 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 08:37:36 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 08:37:39 | INFO     | --------------------------------------------------
+2026-04-08 08:37:39 | INFO     | [10/107] 🔄 PROCESANDO: Aranda Calle, M. Ángeles
+2026-04-08 08:37:39 | INFO     |    📋 Datos a introducir -> Inicio: 10/03/2026 | Fin: 10/03/2026 | Horas: '02:00' | Motivo: 'ACOMPAÑA A UN GRUPO EN ACTIVIDAD'
+2026-04-08 08:37:39 | INFO     |    🔎 Buscando en listado a: 'ARANDA CALLE, M. ANGELES'
+2026-04-08 08:37:40 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
+2026-04-08 08:37:40 | ERROR    |    ❌ FALLO CRÍTICO procesando a Aranda Calle, M. Ángeles: No se encontró a 'Aranda Calle, M. Ángeles' en el listado.
+2026-04-08 08:37:40 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 08:37:40 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 08:37:43 | INFO     | --------------------------------------------------
+2026-04-08 08:37:43 | INFO     | [11/107] 🔄 PROCESANDO: Aranda Calle, M. Ángeles
+2026-04-08 08:37:43 | INFO     |    📋 Datos a introducir -> Inicio: 25/03/2026 | Fin: 25/03/2026 | Horas: '03:00' | Motivo: 'ACOMPAÑA A UN GRUPO EN ACTIVIDAD'
+2026-04-08 08:37:43 | INFO     |    🔎 Buscando en listado a: 'ARANDA CALLE, M. ANGELES'
+2026-04-08 08:37:44 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
+2026-04-08 08:37:44 | ERROR    |    ❌ FALLO CRÍTICO procesando a Aranda Calle, M. Ángeles: No se encontró a 'Aranda Calle, M. Ángeles' en el listado.
+2026-04-08 08:37:44 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 08:37:44 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 08:37:47 | INFO     | --------------------------------------------------
+2026-04-08 08:37:47 | INFO     | [12/107] 🔄 PROCESANDO: Barquilla Caso, Margarita
+2026-04-08 08:37:47 | INFO     |    📋 Datos a introducir -> Inicio: 23/03/2026 | Fin: 23/03/2026 | Horas: '' | Motivo: 'ACOMPAÑA A UN GRUPO EN ACTIVIDAD'
+2026-04-08 08:37:47 | INFO     |    🔎 Buscando en listado a: 'BARQUILLA CASO, MARGARITA'
