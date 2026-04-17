@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='bot_ausencias_7_propio',
+    name='BotAusencias',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
