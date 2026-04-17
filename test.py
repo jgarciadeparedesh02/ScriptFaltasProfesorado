@@ -4,7 +4,6 @@ import pandas as pd
 import unicodedata
 import os
 import logging
-import atexit
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -13,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException, TimeoutException, StaleElementReferenceException
 
 # ==========================================
-# 0. CONFIGURACIÓN DE LOGS Y CIERRE
+# 0. CONFIGURACIÓN DE LOGS
 # ==========================================
 logging.basicConfig(
     level=logging.INFO,
@@ -24,13 +23,6 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
-
-def mantener_consola_abierta():
-    print("\n" + "="*50)
-    input("🏁 Proceso finalizado. Presiona ENTER para cerrar esta ventana...")
-
-# Esto garantiza que al terminar o fallar, la consola no se cierre inmediatamente
-atexit.register(mantener_consola_abierta)
 
 # --- CONFIGURACIÓN DE RUTAS ---
 ARCHIVO_CSV = 'ausencias.csv'
@@ -314,10 +306,7 @@ for pasada in range(1, MAX_PASADAS + 1):
 # ==========================================
 # 5. CIERRE Y REPORTE
 # ==========================================
-try:
-    driver.quit() 
-except:
-    pass
+driver.quit() 
 
 # Filtrar las líneas que siguen sin estar OK después de todas las pasadas
 df_errores = df[df[COLUMNA_ESTADO].str.strip().str.upper() != 'OK']

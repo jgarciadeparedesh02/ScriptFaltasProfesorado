@@ -1,108 +1,66 @@
-﻿Nombre,"Fecha Inicio","Fecha Fin","Horas Lectivas",Motivo,Registrado
-"Agúndez Fernández, Laura",09/03/2026,09/03/2026,,"Visita médica",
-"Agúndez Fernández, Laura",09/03/2026,09/03/2026,,"Asuntos particulares",
-"Alonso Alegre, María Justa",02/03/2026,02/03/2026,03:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Alonso Alegre, María Justa",23/03/2026,23/03/2026,,"Asuntos particulares",
-"Álvarez Durán, José María",02/03/2026,02/03/2026,02:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Álvarez Durán, José María",18/03/2026,18/03/2026,02:00,"Visita médica",
-"Aranda Calle, M. Ángeles",04/03/2026,04/03/2026,,"Visita médica",
-"Aranda Calle, M. Ángeles",05/03/2026,05/03/2026,,Enfermedad,
-"Aranda Calle, M. Ángeles",06/03/2026,06/03/2026,,Excursion,
-"Aranda Calle, M. Ángeles",10/03/2026,10/03/2026,02:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Aranda Calle, M. Ángeles",25/03/2026,25/03/2026,03:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Barquilla Caso, Margarita",23/03/2026,23/03/2026,,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Barquilla Caso, Margarita",25/03/2026,25/03/2026,,"Asuntos particulares",
-"Barrantes Timón, Alejandro",03/03/2026,05/03/2026,," Enfermedad grave de un familiar",
-"Barrantes Timón, Alejandro",09/03/2026,09/03/2026,01:00,"Visita médica",
-"Barrantes Timón, Alejandro",13/03/2026,13/03/2026,,"Asuntos particulares",
-"Barroso Díaz, Carlos",09/03/2026,11/03/2026,,"Asuntos particulares",
-"Berrocal Gonzalo, Beatriz",02/03/2026,02/03/2026,01:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Berrocal Gonzalo, Beatriz",09/03/2026,10/03/2026,," Enfermedad grave de un familiar",
-"Berrocal Gonzalo, Beatriz",12/03/2026,13/03/2026,," Enfermedad grave de un familiar",
-"Berrocal Gonzalo, Beatriz",19/03/2026,19/03/2026,,Reunión,
-"Berrocal Gonzalo, Beatriz",25/03/2026,25/03/2026,01:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Bogas Perona, José Hipólito",09/03/2026,09/03/2026,,"Asuntos particulares",
-"Calle Simón, Miguel",05/03/2026,05/03/2026,,"Fallecimiento de un familiar",
-"Calle Simón, Miguel",09/03/2026,09/03/2026,01:00,"Visita médica",
-"Calleja Flores, M. Lourdes",16/03/2026,16/03/2026,,Enfermedad,
-"Cancho Pérez, Álvaro",13/03/2026,13/03/2026,,"Asuntos particulares",
-"Cerezo Torres-Pardo, María",09/03/2026,09/03/2026,,"Asuntos particulares",
-"Cerezo Torres-Pardo, María",19/03/2026,19/03/2026,,Reunión,
-"De la Fuente Ubanell, Iñigo",10/03/2026,13/03/2026,," Enfermedad grave de un familiar",
-"Estévez Amado, Cristina",09/03/2026,09/03/2026,,"Visita médica",
-"Estévez Amado, Cristina",09/03/2026,09/03/2026,,"Visita médica",
-"Estévez Amado, Cristina",12/03/2026,12/03/2026,,"Asuntos particulares",
-"Fernández Corcho, María Guadalupe",13/03/2026,13/03/2026,,"Visita médica",
-"Fuentes Domínguez, María Ángeles",13/03/2026,13/03/2026,01:00,"Visita médica",
-"Galán López Cano, Natalia Fátima",09/03/2026,09/03/2026,,Excursion,
-"Gallardo Concejero, María de los Remedios",02/03/2026,02/03/2026,02:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Gallardo Concejero, María de los Remedios",16/03/2026,16/03/2026,,"Asuntos particulares",
-"García Fernández, M.Antonia",04/03/2026,04/03/2026,01:00,"Visita médica",
-"Gil Sánchez, Elena",10/03/2026,10/03/2026,01:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"González Benítez, Belén",02/03/2026,02/03/2026,03:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"González Benítez, Belén",16/03/2026,16/03/2026,,"Asuntos particulares",
-"Granados Trenado, María José",09/03/2026,09/03/2026,,Excursion,
-"Granados Trenado, María José",09/03/2026,09/03/2026,,Excursion,
-"Hernández López, Sergio",19/03/2026,19/03/2026,,"Fallecimiento de un familiar",
-"Hernández López, Sergio",24/03/2026,24/03/2026,,"Fallecimiento de un familiar",
-"Hoyas Costa, M. Isabel",12/03/2026,12/03/2026,01:00,"Visita médica",
-"Iglesias Roso, M. Cristina",06/03/2026,06/03/2026,,"Asuntos particulares",
-"Iglesias Silva, Beatriz",02/03/2026,02/03/2026,,"Asuntos particulares",
-"Lasso García, Soledad",03/03/2026,04/03/2026,,"Asuntos particulares",
-"Lázaro Sánchez, Nicolás José",20/03/2026,20/03/2026,,"Asuntos particulares",
-"López Bobillo, Natalia Esther",04/03/2026,04/03/2026,,"Asuntos particulares",
-"López Bobillo, Natalia Esther",11/03/2026,11/03/2026,,"Asuntos particulares",
-"Lorenzo Prieto, Alberto",16/03/2026,16/03/2026,,"Asuntos particulares",
-"Lorenzo Prieto, Alberto",23/03/2026,23/03/2026,,"Asuntos particulares",
-"Luengo Hernández, Eugenio",06/03/2026,06/03/2026,,Excursion,
-"Marín Silva, Rubén",06/03/2026,06/03/2026,,"Asuntos particulares",
-"Martín Largo, María Casiana",06/03/2026,06/03/2026,01:00,"Visita médica",
-"Martín Largo, María Casiana",09/03/2026,13/03/2026,," Enfermedad grave de un familiar",
-"Mateos González, Óscar Luis",02/03/2026,02/03/2026,,"Asuntos particulares",
-"Méndez Ruiz, Cristina",02/03/2026,02/03/2026,,"Asuntos particulares",
-"Méndez Ruiz, Cristina",17/03/2026,17/03/2026,01:00,"Visita médica",
-"Merchán Villalobos, Nerea",09/03/2026,09/03/2026,,"Visita médica",
-"Merino Jerez, María Belén",19/03/2026,20/03/2026,,"Asuntos particulares",
-"Moreno Cortés, María Carmen",11/03/2026,11/03/2026,,"Visita médica",
-"Navareño Sánchez, María Inmaculada",23/03/2026,25/03/2026,,"Asuntos particulares",
-"Ortega Alegre, Rufina",18/03/2026,19/03/2026,02:00," Enfermedad grave de un familiar",
-"Ortega Alegre, Rufina",24/03/2026,24/03/2026,," Enfermedad grave de un familiar",
-"Peña Sánchez, M.Eva",16/03/2026,16/03/2026,,"Asuntos particulares",
-"Peña Sánchez, M.Eva",20/03/2026,20/03/2026,,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Peña Sánchez, M.Eva",23/03/2026,23/03/2026,,"Asuntos particulares",
-"Penco Robledo, Antonio Luis",10/03/2026,10/03/2026,02:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Penco Robledo, Antonio Luis",20/03/2026,20/03/2026,,"Asuntos particulares",
-"Penco Robledo, Antonio Luis",25/03/2026,25/03/2026,03:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Pérez Del Amo, Rocío",09/03/2026,09/03/2026,,"Visita médica",
-"Pérez Del Amo, Rocío",10/03/2026,10/03/2026,,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Pérez Pérez, Agustín",05/03/2026,05/03/2026,,Reunión,
-"Pérez Pérez, Agustín",09/03/2026,09/03/2026,01:00,Desconocido,
-"Pérez Pérez, Agustín",10/03/2026,10/03/2026,02:00,"Visita médica",
-"Pérez Pérez, Agustín",25/03/2026,25/03/2026,,"Asuntos particulares",
-"Población Romero, Javier",10/03/2026,10/03/2026,02:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Población Romero, Javier",11/03/2026,11/03/2026,01:00,"Visita médica",
-"Población Romero, Javier",13/03/2026,13/03/2026,,"Asuntos particulares",
-"Población Romero, Javier",20/03/2026,20/03/2026,,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Portugal Iglesias, Raquel",20/03/2026,20/03/2026,,"Asuntos particulares",
-"Regadera Blanco, M. Isabel",13/03/2026,13/03/2026,,"Asuntos particulares",
-"Regadera Blanco, M. Isabel",17/03/2026,17/03/2026,,Enfermedad,
-"Regadera Blanco, M. Isabel",17/03/2026,17/03/2026,,Desconocido,
-"Rodríguez Rodríguez, G. Carolina",09/03/2026,10/03/2026,,"Asuntos particulares",
-"Sánchez Donaire, Miriam",02/03/2026,02/03/2026,,"Asuntos particulares",
-"Sánchez Donaire, Miriam",10/03/2026,10/03/2026,02:00,Excursion,
-"Sánchez Donaire, Miriam",24/03/2026,24/03/2026,02:00,"Visita médica",
-"Sánchez González, Lara",19/03/2026,24/03/2026,,"Asuntos particulares",
-"Sánchez Lucas, María Lourdes",16/03/2026,16/03/2026,,"Asuntos particulares",
-"Sánchez Mayoral González, Laura",19/03/2026,19/03/2026,,"Asuntos particulares",
-"Santillana Amor, Noelia Josefa",18/03/2026,18/03/2026,,"Asuntos particulares",
-"Saura Parra, Nerea",04/03/2026,04/03/2026,01:00,"Visita médica",
-"Saura Parra, Nerea",09/03/2026,09/03/2026,01:00,"Visita médica",
-"Saura Parra, Nerea",16/03/2026,16/03/2026,01:00,"Visita médica",
-"Simón Solís, María",03/03/2026,03/03/2026,02:00,"Visita médica",
-"Toribio Quijada, Melanie",06/03/2026,06/03/2026,02:00,"Visita médica",
-"Travado Díaz, Juan Carlos",24/03/2026,24/03/2026,,"Asuntos particulares",
-"Valiente Martín, Ana Belén",02/03/2026,02/03/2026,03:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Valiente Martín, Ana Belén",03/03/2026,05/03/2026,," Enfermedad grave de un familiar",
-"Valiente Martín, Ana Belén",10/03/2026,10/03/2026,02:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
-"Valiente Martín, Ana Belén",13/03/2026,13/03/2026,,"Visita médica",
-"Valiente Martín, Ana Belén",25/03/2026,25/03/2026,02:00,"ACOMPAÑA A UN GRUPO EN ACTIVIDAD",
+﻿Nombre;Fecha Inicio;Fecha Fin;Horas Lectivas;Motivo;Registrado
+Agúndez Fernández, Laura;09/03/2026;09/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Agúndez Fernández, Laura;09/03/2026;09/03/2026;;Permiso para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral. (art. 11);OK
+Alonso Alegre, María Justa;23/03/2026;23/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Aranda Calle, M. Ángeles;04/03/2026;04/03/2026;;Permiso para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral. (art. 11);OK
+Aranda Calle, M. Ángeles;05/03/2026;05/03/2026;;Permiso por enfermedad propia (art. 3);OK
+Barquilla Caso, Margarita;25/03/2026;25/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Barrantes Timón, Alejandro;03/03/2026;05/03/2026;;Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2);OK
+Barrantes Timón, Alejandro;13/03/2026;13/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Barroso Díaz, Carlos;09/03/2026;11/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Berrocal Gonzalo, Beatriz;09/03/2026;10/03/2026;;Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2);OK
+Berrocal Gonzalo, Beatriz;12/03/2026;13/03/2026;;Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2);OK
+Bogas Perona, José Hipólito;09/03/2026;09/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Bogas Perona, José Hipólito;27/03/2026;27/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Calle Simón, Miguel;05/03/2026;05/03/2026;;Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2);OK
+Calleja Flores, M. Lourdes;16/03/2026;16/03/2026;;Permiso por enfermedad propia (art. 3);OK
+Cancho Pérez, Álvaro;13/03/2026;13/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Cerezo Torres-Pardo, María;09/03/2026;09/03/2026;;Permiso por asuntos particulares (art. 13);OK
+De la Fuente Ubanell, Iñigo;10/03/2026;13/03/2026;;Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2);OK
+Estévez Amado, Cristina;12/03/2026;12/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Fernández Corcho, María Guadalupe;13/03/2026;13/03/2026;;Permiso para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral. (art. 11);OK
+Galán Román, Eduardo;27/03/2026;27/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Gallardo Concejero, María de los Remedio;16/03/2026;16/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Garay Serrano, Martín;27/03/2026;27/03/2026;;Permiso por asuntos particulares (art. 13);OK
+González Benítez, Belén;16/03/2026;16/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Hernández López, Sergio;19/03/2026;24/03/2026;;Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2);OK
+Iglesias Roso, M. Cristina;06/03/2026;06/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Iglesias Silva, Beatriz;02/03/2026;02/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Lasso García, Soledad;03/03/2026;04/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Lázaro Sánchez, Nicolás José;20/03/2026;20/03/2026;;Permiso por asuntos particulares (art. 13);OK
+López Bobillo, Natalia Esther;04/03/2026;04/03/2026;;Permiso por asuntos particulares (art. 13);OK
+López Bobillo, Natalia Esther;11/03/2026;11/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Lorenzo Prieto, Alberto;16/03/2026;16/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Lorenzo Prieto, Alberto;23/03/2026;23/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Marín Silva, Rubén;06/03/2026;06/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Martín Alonso, Guadalupe;24/03/2026;24/03/2026;;Permiso para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral. (art. 11);OK
+Martín Alonso, Guadalupe;27/03/2026;27/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Martín Largo, María Casiana;09/03/2026;13/03/2026;;Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2);OK
+Mateos González, Óscar Luis;02/03/2026;02/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Méndez Ruiz, Cristina;02/03/2026;02/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Merino Jerez, María Belén;19/03/2026;20/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Moreno Cortés, María Carmen;11/03/2026;11/03/2026;;Permiso para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral. (art. 11);OK
+Moreno Cortés, María Carmen;27/03/2026;27/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Navareño Sánchez, María Inmaculada;23/03/2026;26/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Ortega Alegre, Rufina;19/03/2026;19/03/2026;;Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2);OK
+Ortega Alegre, Rufina;24/03/2026;24/03/2026;;Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2);OK
+Ortega Alegre, Rufina;26/03/2026;27/03/2026;;Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2);OK
+Peña Sánchez, M.Eva;16/03/2026;16/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Peña Sánchez, M.Eva;23/03/2026;23/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Penco Robledo, Antonio Luis;20/03/2026;20/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Pérez Del Amo, Rocío;09/03/2026;09/03/2026;;Permiso para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral. (art. 11);OK
+Pérez Pérez, Agustín;25/03/2026;25/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Población Romero, Javier;13/03/2026;13/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Portugal Iglesias, Raquel;20/03/2026;20/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Regadera Blanco, M. Isabel;13/03/2026;13/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Regadera Blanco, M. Isabel;17/03/2026;17/03/2026;;Permiso por enfermedad propia (art. 3);OK
+Rodríguez Rodríguez, G. Carolina;09/03/2026;10/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Sánchez Donaire, Miriam;02/03/2026;02/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Sánchez González, Lara;19/03/2026;24/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Sánchez Lucas, María Lourdes;16/03/2026;16/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Sánchez Mayoral González, Laura;19/03/2026;19/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Santillana Amor, Noelia Josefa;18/03/2026;18/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Travado Díaz, Juan Carlos;24/03/2026;24/03/2026;;Permiso por asuntos particulares (art. 13);OK
+Valiente Martín, Ana Belén;03/03/2026;05/03/2026;;Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2);OK
+Valiente Martín, Ana Belén;13/03/2026;13/03/2026;;Permiso para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral. (art. 11);OK
+Valleros Rodríguez, Pedro;27/03/2026;27/03/2026;;Permiso por asuntos particulares (art. 13);OK

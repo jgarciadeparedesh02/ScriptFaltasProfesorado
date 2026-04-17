@@ -1,106 +1,561 @@
-2026-04-08 08:25:37 | INFO     | 📂 Leyendo ausencias.csv...
-2026-04-08 08:25:37 | INFO     | ℹ️ La columna 'Registrado' no existía. Creándola...
-2026-04-08 08:25:37 | INFO     | 🚀 Iniciando el navegador Chrome...
-2026-04-08 08:25:40 | INFO     | 🛑 PASO 1: Inicia sesión en Rayuela.
-2026-04-08 08:25:40 | INFO     | 🛑 PASO 2: Navega hasta el listado de profesores (Página 1).
-2026-04-08 08:26:02 | INFO     | ▶️ Usuario confirmó inicio. Arrancando procesamiento...
-2026-04-08 08:36:25 | INFO     | 📂 Leyendo archivo: ausencias.csv
-2026-04-08 08:36:25 | ERROR    | ❌ No se encontró la columna 'Nombre'. Columnas detectadas: ['Nombre,"Fecha Inicio","Fecha Fin","Horas Lectivas",Motivo,Registrado']
-2026-04-08 08:36:46 | INFO     | 📂 Leyendo archivo: ausencias.csv
-2026-04-08 08:36:46 | INFO     | 🚀 Iniciando el navegador Chrome...
-2026-04-08 08:36:47 | INFO     | 🌐 Navegando a: https://rayuela.educarex.es/modulo_acceso/
-2026-04-08 08:36:48 | INFO     | 🛑 PASO 1: Inicia sesión en Rayuela.
-2026-04-08 08:36:48 | INFO     | 🛑 PASO 2: Navega hasta el listado de profesores (Página 1).
-2026-04-08 08:37:03 | INFO     | ▶️ Usuario confirmó inicio. Arrancando bucle de procesamiento...
-2026-04-08 08:37:03 | INFO     | --------------------------------------------------
-2026-04-08 08:37:03 | INFO     | [1/107] 🔄 PROCESANDO: Agúndez Fernández, Laura
-2026-04-08 08:37:03 | INFO     |    📋 Datos a introducir -> Inicio: 09/03/2026 | Fin: 09/03/2026 | Horas: '' | Motivo: 'Visita médica'
-2026-04-08 08:37:03 | INFO     |    🔎 Buscando en listado a: 'AGUNDEZ FERNANDEZ, LAURA'
-2026-04-08 08:37:05 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
-2026-04-08 08:37:05 | ERROR    |    ❌ FALLO CRÍTICO procesando a Agúndez Fernández, Laura: No se encontró a 'Agúndez Fernández, Laura' en el listado.
-2026-04-08 08:37:05 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
-2026-04-08 08:37:05 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
-2026-04-08 08:37:08 | INFO     | --------------------------------------------------
-2026-04-08 08:37:08 | INFO     | [2/107] 🔄 PROCESANDO: Agúndez Fernández, Laura
-2026-04-08 08:37:08 | INFO     |    📋 Datos a introducir -> Inicio: 09/03/2026 | Fin: 09/03/2026 | Horas: '' | Motivo: 'Asuntos particulares'
-2026-04-08 08:37:08 | INFO     |    🔎 Buscando en listado a: 'AGUNDEZ FERNANDEZ, LAURA'
-2026-04-08 08:37:09 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
-2026-04-08 08:37:09 | ERROR    |    ❌ FALLO CRÍTICO procesando a Agúndez Fernández, Laura: No se encontró a 'Agúndez Fernández, Laura' en el listado.
-2026-04-08 08:37:09 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
-2026-04-08 08:37:09 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
-2026-04-08 08:37:12 | INFO     | --------------------------------------------------
-2026-04-08 08:37:12 | INFO     | [3/107] 🔄 PROCESANDO: Alonso Alegre, María Justa
-2026-04-08 08:37:12 | INFO     |    📋 Datos a introducir -> Inicio: 02/03/2026 | Fin: 02/03/2026 | Horas: '03:00' | Motivo: 'ACOMPAÑA A UN GRUPO EN ACTIVIDAD'
-2026-04-08 08:37:12 | INFO     |    🔎 Buscando en listado a: 'ALONSO ALEGRE, MARIA JUSTA'
-2026-04-08 08:37:13 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
-2026-04-08 08:37:13 | ERROR    |    ❌ FALLO CRÍTICO procesando a Alonso Alegre, María Justa: No se encontró a 'Alonso Alegre, María Justa' en el listado.
-2026-04-08 08:37:13 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
-2026-04-08 08:37:13 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
-2026-04-08 08:37:16 | INFO     | --------------------------------------------------
-2026-04-08 08:37:16 | INFO     | [4/107] 🔄 PROCESANDO: Alonso Alegre, María Justa
-2026-04-08 08:37:16 | INFO     |    📋 Datos a introducir -> Inicio: 23/03/2026 | Fin: 23/03/2026 | Horas: '' | Motivo: 'Asuntos particulares'
-2026-04-08 08:37:16 | INFO     |    🔎 Buscando en listado a: 'ALONSO ALEGRE, MARIA JUSTA'
-2026-04-08 08:37:17 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
-2026-04-08 08:37:17 | ERROR    |    ❌ FALLO CRÍTICO procesando a Alonso Alegre, María Justa: No se encontró a 'Alonso Alegre, María Justa' en el listado.
-2026-04-08 08:37:17 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
-2026-04-08 08:37:18 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
-2026-04-08 08:37:20 | INFO     | --------------------------------------------------
-2026-04-08 08:37:20 | INFO     | [5/107] 🔄 PROCESANDO: Álvarez Durán, José María
-2026-04-08 08:37:20 | INFO     |    📋 Datos a introducir -> Inicio: 02/03/2026 | Fin: 02/03/2026 | Horas: '02:00' | Motivo: 'ACOMPAÑA A UN GRUPO EN ACTIVIDAD'
-2026-04-08 08:37:20 | INFO     |    🔎 Buscando en listado a: 'ALVAREZ DURAN, JOSE MARIA'
-2026-04-08 08:37:21 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
-2026-04-08 08:37:21 | ERROR    |    ❌ FALLO CRÍTICO procesando a Álvarez Durán, José María: No se encontró a 'Álvarez Durán, José María' en el listado.
-2026-04-08 08:37:21 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
-2026-04-08 08:37:21 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
-2026-04-08 08:37:21 | INFO     | --------------------------------------------------
-2026-04-08 08:37:21 | INFO     | [6/107] 🔄 PROCESANDO: Álvarez Durán, José María
-2026-04-08 08:37:21 | INFO     |    📋 Datos a introducir -> Inicio: 18/03/2026 | Fin: 18/03/2026 | Horas: '02:00' | Motivo: 'Visita médica'
-2026-04-08 08:37:21 | INFO     |    🔎 Buscando en listado a: 'ALVAREZ DURAN, JOSE MARIA'
-2026-04-08 08:37:23 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
-2026-04-08 08:37:23 | ERROR    |    ❌ FALLO CRÍTICO procesando a Álvarez Durán, José María: No se encontró a 'Álvarez Durán, José María' en el listado.
-2026-04-08 08:37:23 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
-2026-04-08 08:37:23 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
-2026-04-08 08:37:26 | INFO     | --------------------------------------------------
-2026-04-08 08:37:26 | INFO     | [7/107] 🔄 PROCESANDO: Aranda Calle, M. Ángeles
-2026-04-08 08:37:26 | INFO     |    📋 Datos a introducir -> Inicio: 04/03/2026 | Fin: 04/03/2026 | Horas: '' | Motivo: 'Visita médica'
-2026-04-08 08:37:26 | INFO     |    🔎 Buscando en listado a: 'ARANDA CALLE, M. ANGELES'
-2026-04-08 08:37:27 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
-2026-04-08 08:37:27 | ERROR    |    ❌ FALLO CRÍTICO procesando a Aranda Calle, M. Ángeles: No se encontró a 'Aranda Calle, M. Ángeles' en el listado.
-2026-04-08 08:37:27 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
-2026-04-08 08:37:27 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
-2026-04-08 08:37:30 | INFO     | --------------------------------------------------
-2026-04-08 08:37:30 | INFO     | [8/107] 🔄 PROCESANDO: Aranda Calle, M. Ángeles
-2026-04-08 08:37:30 | INFO     |    📋 Datos a introducir -> Inicio: 05/03/2026 | Fin: 05/03/2026 | Horas: '' | Motivo: 'Enfermedad'
-2026-04-08 08:37:30 | INFO     |    🔎 Buscando en listado a: 'ARANDA CALLE, M. ANGELES'
-2026-04-08 08:37:31 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
-2026-04-08 08:37:31 | ERROR    |    ❌ FALLO CRÍTICO procesando a Aranda Calle, M. Ángeles: No se encontró a 'Aranda Calle, M. Ángeles' en el listado.
-2026-04-08 08:37:31 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
-2026-04-08 08:37:31 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
-2026-04-08 08:37:35 | INFO     | --------------------------------------------------
-2026-04-08 08:37:35 | INFO     | [9/107] 🔄 PROCESANDO: Aranda Calle, M. Ángeles
-2026-04-08 08:37:35 | INFO     |    📋 Datos a introducir -> Inicio: 06/03/2026 | Fin: 06/03/2026 | Horas: '' | Motivo: 'Excursion'
-2026-04-08 08:37:35 | INFO     |    🔎 Buscando en listado a: 'ARANDA CALLE, M. ANGELES'
-2026-04-08 08:37:36 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
-2026-04-08 08:37:36 | ERROR    |    ❌ FALLO CRÍTICO procesando a Aranda Calle, M. Ángeles: No se encontró a 'Aranda Calle, M. Ángeles' en el listado.
-2026-04-08 08:37:36 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
-2026-04-08 08:37:36 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
-2026-04-08 08:37:39 | INFO     | --------------------------------------------------
-2026-04-08 08:37:39 | INFO     | [10/107] 🔄 PROCESANDO: Aranda Calle, M. Ángeles
-2026-04-08 08:37:39 | INFO     |    📋 Datos a introducir -> Inicio: 10/03/2026 | Fin: 10/03/2026 | Horas: '02:00' | Motivo: 'ACOMPAÑA A UN GRUPO EN ACTIVIDAD'
-2026-04-08 08:37:39 | INFO     |    🔎 Buscando en listado a: 'ARANDA CALLE, M. ANGELES'
-2026-04-08 08:37:40 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
-2026-04-08 08:37:40 | ERROR    |    ❌ FALLO CRÍTICO procesando a Aranda Calle, M. Ángeles: No se encontró a 'Aranda Calle, M. Ángeles' en el listado.
-2026-04-08 08:37:40 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
-2026-04-08 08:37:40 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
-2026-04-08 08:37:43 | INFO     | --------------------------------------------------
-2026-04-08 08:37:43 | INFO     | [11/107] 🔄 PROCESANDO: Aranda Calle, M. Ángeles
-2026-04-08 08:37:43 | INFO     |    📋 Datos a introducir -> Inicio: 25/03/2026 | Fin: 25/03/2026 | Horas: '03:00' | Motivo: 'ACOMPAÑA A UN GRUPO EN ACTIVIDAD'
-2026-04-08 08:37:43 | INFO     |    🔎 Buscando en listado a: 'ARANDA CALLE, M. ANGELES'
-2026-04-08 08:37:44 | WARNING  |    ⚠️ No hay más páginas y no se encontró al profesor.
-2026-04-08 08:37:44 | ERROR    |    ❌ FALLO CRÍTICO procesando a Aranda Calle, M. Ángeles: No se encontró a 'Aranda Calle, M. Ángeles' en el listado.
-2026-04-08 08:37:44 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
-2026-04-08 08:37:44 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
-2026-04-08 08:37:47 | INFO     | --------------------------------------------------
-2026-04-08 08:37:47 | INFO     | [12/107] 🔄 PROCESANDO: Barquilla Caso, Margarita
-2026-04-08 08:37:47 | INFO     |    📋 Datos a introducir -> Inicio: 23/03/2026 | Fin: 23/03/2026 | Horas: '' | Motivo: 'ACOMPAÑA A UN GRUPO EN ACTIVIDAD'
-2026-04-08 08:37:47 | INFO     |    🔎 Buscando en listado a: 'BARQUILLA CASO, MARGARITA'
+2026-04-08 09:40:07 | INFO     | 📂 Leyendo archivo: ausencias.csv
+2026-04-08 09:40:07 | ERROR    | ❌ No se encontró la columna 'Nombre'. Columnas detectadas: ['Nombre;Fecha Inicio;Fecha Fin;Horas Lectivas;Motivo;Registrado']
+2026-04-08 09:40:41 | INFO     | 📂 Leyendo archivo: ausencias.csv
+2026-04-08 09:40:41 | INFO     | 🚀 Iniciando el navegador Chrome...
+2026-04-08 09:40:45 | INFO     | 🌐 Navegando a: https://rayuela.educarex.es/modulo_acceso/
+2026-04-08 09:40:46 | INFO     | 🛑 PASO 1: Inicia sesión en Rayuela.
+2026-04-08 09:40:46 | INFO     | 🛑 PASO 2: Navega hasta el listado de profesores (Página 1).
+2026-04-08 09:40:50 | INFO     | ▶️ Usuario confirmó inicio. Arrancando bucle de procesamiento...
+2026-04-08 09:47:17 | INFO     | 📂 Leyendo archivo: ausencias.csv
+2026-04-08 09:47:17 | INFO     | 🚀 Iniciando el navegador Chrome...
+2026-04-08 09:47:18 | INFO     | 🌐 Navegando a: https://rayuela.educarex.es/modulo_acceso/
+2026-04-08 09:47:19 | INFO     | 🛑 PASO 1: Inicia sesión en Rayuela.
+2026-04-08 09:47:19 | INFO     | 🛑 PASO 2: Navega hasta el listado de profesores (Página 1).
+2026-04-08 09:48:04 | INFO     | ▶️ Usuario confirmó inicio. Arrancando bucle de procesamiento...
+2026-04-08 09:48:04 | INFO     | [1/65] ⏭️ Saltando: Agúndez Fernández, Laura (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [2/65] ⏭️ Saltando: Agúndez Fernández, Laura (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [3/65] ⏭️ Saltando: Alonso Alegre, María Justa (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [4/65] ⏭️ Saltando: Aranda Calle, M. Ángeles (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [5/65] ⏭️ Saltando: Aranda Calle, M. Ángeles (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [6/65] ⏭️ Saltando: Barquilla Caso, Margarita (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [7/65] ⏭️ Saltando: Barrantes Timón, Alejandro (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [8/65] ⏭️ Saltando: Barrantes Timón, Alejandro (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [9/65] ⏭️ Saltando: Barroso Díaz, Carlos (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [10/65] ⏭️ Saltando: Berrocal Gonzalo, Beatriz (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [11/65] ⏭️ Saltando: Berrocal Gonzalo, Beatriz (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [12/65] ⏭️ Saltando: Bogas Perona, José Hipólito (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [13/65] ⏭️ Saltando: Bogas Perona, José Hipólito (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [14/65] ⏭️ Saltando: Calle Simón, Miguel (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [15/65] ⏭️ Saltando: Calleja Flores, M. Lourdes (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [16/65] ⏭️ Saltando: Cancho Pérez, Álvaro (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [17/65] ⏭️ Saltando: Cerezo Torres-Pardo, María (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [18/65] ⏭️ Saltando: De la Fuente Ubanell, Iñigo (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [19/65] ⏭️ Saltando: Estévez Amado, Cristina (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [20/65] ⏭️ Saltando: Fernández Corcho, María Guadalupe (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [21/65] ⏭️ Saltando: Galán Román, Eduardo (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [22/65] ⏭️ Saltando: Gallardo Concejero, María de los Remedio (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [23/65] ⏭️ Saltando: Garay Serrano, Martín (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [24/65] ⏭️ Saltando: González Benítez, Belén (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [25/65] ⏭️ Saltando: Hernández López, Sergio (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [26/65] ⏭️ Saltando: Iglesias Roso, M. Cristina (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [27/65] ⏭️ Saltando: Iglesias Silva, Beatriz (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [28/65] ⏭️ Saltando: Lasso García, Soledad (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [29/65] ⏭️ Saltando: Lázaro Sánchez, Nicolás José (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [30/65] ⏭️ Saltando: López Bobillo, Natalia Esther (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [31/65] ⏭️ Saltando: López Bobillo, Natalia Esther (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [32/65] ⏭️ Saltando: Lorenzo Prieto, Alberto (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [33/65] ⏭️ Saltando: Lorenzo Prieto, Alberto (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [34/65] ⏭️ Saltando: Marín Silva, Rubén (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [35/65] ⏭️ Saltando: Martín Alonso, Guadalupe (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [36/65] ⏭️ Saltando: Martín Alonso, Guadalupe (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [37/65] ⏭️ Saltando: Martín Largo, María Casiana (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [38/65] ⏭️ Saltando: Mateos González, Óscar Luis (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [39/65] ⏭️ Saltando: Méndez Ruiz, Cristina (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [40/65] ⏭️ Saltando: Merino Jerez, María Belén (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [41/65] ⏭️ Saltando: Moreno Cortés, María Carmen (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [42/65] ⏭️ Saltando: Moreno Cortés, María Carmen (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [43/65] ⏭️ Saltando: Navareño Sánchez, María Inmaculada (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [44/65] ⏭️ Saltando: Ortega Alegre, Rufina (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [45/65] ⏭️ Saltando: Ortega Alegre, Rufina (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [46/65] ⏭️ Saltando: Ortega Alegre, Rufina (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [47/65] ⏭️ Saltando: Peña Sánchez, M.Eva (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [48/65] ⏭️ Saltando: Peña Sánchez, M.Eva (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [49/65] ⏭️ Saltando: Penco Robledo, Antonio Luis (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [50/65] ⏭️ Saltando: Pérez Del Amo, Rocío (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [51/65] ⏭️ Saltando: Pérez Pérez, Agustín (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | [52/65] ⏭️ Saltando: Población Romero, Javier (Ya marcado como OK).
+2026-04-08 09:48:04 | INFO     | --------------------------------------------------
+2026-04-08 09:48:04 | INFO     | [53/65] 🔄 PROCESANDO: Portugal Iglesias, Raquel
+2026-04-08 09:48:04 | INFO     |    📋 Datos a introducir -> Inicio: 20/03/2026 | Fin: 20/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:48:04 | INFO     |    🔎 Buscando en listado a: 'PORTUGAL IGLESIAS, RAQUEL'
+2026-04-08 09:48:07 | INFO     |    ➡️ Pasando a la página 2...
+2026-04-08 09:48:12 | INFO     |    ➡️ Pasando a la página 3...
+2026-04-08 09:48:17 | INFO     |    ➡️ Pasando a la página 4...
+2026-04-08 09:48:22 | INFO     |    ➡️ Pasando a la página 5...
+2026-04-08 09:48:27 | INFO     |    ➡️ Pasando a la página 6...
+2026-04-08 09:48:32 | INFO     |    ➡️ Pasando a la página 7...
+2026-04-08 09:48:36 | INFO     |    ✅ Profesor encontrado en la página 7
+2026-04-08 09:48:36 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 09:48:38 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 09:48:38 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 09:48:40 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 09:48:40 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 20/03/2026
+2026-04-08 09:48:41 | INFO     |    ⌨️ Escribiendo Fecha Fin: 20/03/2026
+2026-04-08 09:48:42 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 09:48:42 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:48:45 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 09:48:45 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 09:48:46 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 09:48:47 | INFO     |    🎉 ¡EXITO! Ausencia de Portugal Iglesias, Raquel registrada en Rayuela.
+2026-04-08 09:48:47 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 09:48:47 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 09:48:51 | INFO     | --------------------------------------------------
+2026-04-08 09:48:51 | INFO     | [54/65] 🔄 PROCESANDO: Regadera Blanco, M. Isabel
+2026-04-08 09:48:51 | INFO     |    📋 Datos a introducir -> Inicio: 13/03/2026 | Fin: 13/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:48:51 | INFO     |    🔎 Buscando en listado a: 'REGADERA BLANCO, M. ISABEL'
+2026-04-08 09:48:51 | ERROR    |    ❌ FALLO CRÍTICO procesando a Regadera Blanco, M. Isabel: Alert Text: El número total de horas debe ser mayor que cero.
+Message: unexpected alert open: {Alert text : El número total de horas debe ser mayor que cero.}
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff61ed629c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff61ea8a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff61e7edb2d]
+	chromedriver!(No symbol) [0x7ff61e89461b]
+	chromedriver!(No symbol) [0x7ff61e839298]
+	chromedriver!(No symbol) [0x7ff61e83a183]
+	chromedriver!GetHandleVerifier [0x7ff61ed8de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff61ed88588+313348]
+	chromedriver!GetHandleVerifier [0x7ff61eda9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff61eaa6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff61eaafacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff61ea93634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff61ea937e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff61ea77e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe17a37374+14]
+	ntdll!RtlUserThreadStart [0x7ffe1807cc91+21]
+
+2026-04-08 09:48:51 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 09:48:51 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 09:48:51 | INFO     | --------------------------------------------------
+2026-04-08 09:48:51 | INFO     | [55/65] 🔄 PROCESANDO: Regadera Blanco, M. Isabel
+2026-04-08 09:48:51 | INFO     |    📋 Datos a introducir -> Inicio: 17/03/2026 | Fin: 17/03/2026 | Horas: '' | Motivo: 'Permiso por enfermedad propia (art. 3)'
+2026-04-08 09:48:51 | INFO     |    🔎 Buscando en listado a: 'REGADERA BLANCO, M. ISABEL'
+2026-04-08 09:48:52 | INFO     |    ✅ Profesor encontrado en la página 1
+2026-04-08 09:48:52 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 09:48:54 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 09:48:54 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 09:48:57 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 09:48:57 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 17/03/2026
+2026-04-08 09:48:57 | INFO     |    ⌨️ Escribiendo Fecha Fin: 17/03/2026
+2026-04-08 09:48:59 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 09:48:59 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso por enfermedad propia (art. 3)'
+2026-04-08 09:49:01 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 09:49:01 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 09:49:02 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 09:49:02 | INFO     |    🎉 ¡EXITO! Ausencia de Regadera Blanco, M. Isabel registrada en Rayuela.
+2026-04-08 09:49:02 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 09:49:02 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 09:49:06 | INFO     | --------------------------------------------------
+2026-04-08 09:49:06 | INFO     | [56/65] 🔄 PROCESANDO: Rodríguez Rodríguez, G. Carolina
+2026-04-08 09:49:06 | INFO     |    📋 Datos a introducir -> Inicio: 09/03/2026 | Fin: 10/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:49:06 | INFO     |    🔎 Buscando en listado a: 'RODRIGUEZ RODRIGUEZ, G. CAROLINA'
+2026-04-08 09:49:06 | ERROR    |    ❌ FALLO CRÍTICO procesando a Rodríguez Rodríguez, G. Carolina: Alert Text: El número total de horas debe ser mayor que cero.
+Message: unexpected alert open: {Alert text : El número total de horas debe ser mayor que cero.}
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff61ed629c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff61ea8a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff61e7edb2d]
+	chromedriver!(No symbol) [0x7ff61e89461b]
+	chromedriver!(No symbol) [0x7ff61e839298]
+	chromedriver!(No symbol) [0x7ff61e83a183]
+	chromedriver!GetHandleVerifier [0x7ff61ed8de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff61ed88588+313348]
+	chromedriver!GetHandleVerifier [0x7ff61eda9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff61eaa6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff61eaafacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff61ea93634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff61ea937e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff61ea77e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe17a37374+14]
+	ntdll!RtlUserThreadStart [0x7ffe1807cc91+21]
+
+2026-04-08 09:49:06 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 09:49:06 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 09:49:07 | INFO     | --------------------------------------------------
+2026-04-08 09:49:07 | INFO     | [57/65] 🔄 PROCESANDO: Sánchez Donaire, Miriam
+2026-04-08 09:49:07 | INFO     |    📋 Datos a introducir -> Inicio: 02/03/2026 | Fin: 02/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:49:07 | INFO     |    🔎 Buscando en listado a: 'SANCHEZ DONAIRE, MIRIAM'
+2026-04-08 09:49:09 | INFO     |    ➡️ Pasando a la página 2...
+2026-04-08 09:49:12 | INFO     |    ✅ Profesor encontrado en la página 2
+2026-04-08 09:49:12 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 09:49:14 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 09:49:14 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 09:49:16 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 09:49:16 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 02/03/2026
+2026-04-08 09:49:16 | INFO     |    ⌨️ Escribiendo Fecha Fin: 02/03/2026
+2026-04-08 09:49:17 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 09:49:17 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:49:23 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 09:49:23 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 09:49:24 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 09:49:25 | INFO     |    🎉 ¡EXITO! Ausencia de Sánchez Donaire, Miriam registrada en Rayuela.
+2026-04-08 09:49:25 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 09:49:25 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 09:49:29 | INFO     | --------------------------------------------------
+2026-04-08 09:49:29 | INFO     | [58/65] 🔄 PROCESANDO: Sánchez González, Lara
+2026-04-08 09:49:29 | INFO     |    📋 Datos a introducir -> Inicio: 19/03/2026 | Fin: 24/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:49:29 | INFO     |    🔎 Buscando en listado a: 'SANCHEZ GONZALEZ, LARA'
+2026-04-08 09:49:29 | INFO     |    ✅ Profesor encontrado en la página 1
+2026-04-08 09:49:29 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 09:49:32 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 09:49:32 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 09:49:34 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 09:49:34 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 19/03/2026
+2026-04-08 09:49:35 | INFO     |    ⌨️ Escribiendo Fecha Fin: 24/03/2026
+2026-04-08 09:49:36 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 09:49:36 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:49:41 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 09:49:41 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 09:49:42 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 09:49:43 | INFO     |    🎉 ¡EXITO! Ausencia de Sánchez González, Lara registrada en Rayuela.
+2026-04-08 09:49:43 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 09:49:43 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 09:49:47 | INFO     | --------------------------------------------------
+2026-04-08 09:49:47 | INFO     | [59/65] 🔄 PROCESANDO: Sánchez Lucas, María Lourdes
+2026-04-08 09:49:48 | INFO     |    📋 Datos a introducir -> Inicio: 16/03/2026 | Fin: 16/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:49:48 | INFO     |    🔎 Buscando en listado a: 'SANCHEZ LUCAS, MARIA LOURDES'
+2026-04-08 09:49:48 | INFO     |    ✅ Profesor encontrado en la página 1
+2026-04-08 09:49:48 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 09:49:50 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 09:49:50 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 09:49:52 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 09:49:52 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 16/03/2026
+2026-04-08 09:49:53 | INFO     |    ⌨️ Escribiendo Fecha Fin: 16/03/2026
+2026-04-08 09:49:54 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 09:49:54 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:49:59 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 09:49:59 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 09:50:00 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 09:50:01 | INFO     |    🎉 ¡EXITO! Ausencia de Sánchez Lucas, María Lourdes registrada en Rayuela.
+2026-04-08 09:50:01 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 09:50:01 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 09:50:05 | INFO     | --------------------------------------------------
+2026-04-08 09:50:05 | INFO     | [60/65] 🔄 PROCESANDO: Sánchez Mayoral González, Laura
+2026-04-08 09:50:05 | INFO     |    📋 Datos a introducir -> Inicio: 19/03/2026 | Fin: 19/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:50:05 | INFO     |    🔎 Buscando en listado a: 'SANCHEZ MAYORAL GONZALEZ, LAURA'
+2026-04-08 09:50:06 | INFO     |    ✅ Profesor encontrado en la página 1
+2026-04-08 09:50:06 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 09:50:07 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 09:50:07 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 09:50:10 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 09:50:10 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 19/03/2026
+2026-04-08 09:50:10 | INFO     |    ⌨️ Escribiendo Fecha Fin: 19/03/2026
+2026-04-08 09:50:11 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 09:50:11 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:50:16 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 09:50:16 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 09:50:17 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 09:50:18 | INFO     |    🎉 ¡EXITO! Ausencia de Sánchez Mayoral González, Laura registrada en Rayuela.
+2026-04-08 09:50:18 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 09:50:18 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 09:50:22 | INFO     | --------------------------------------------------
+2026-04-08 09:50:22 | INFO     | [61/65] 🔄 PROCESANDO: Santillana Amor, Noelia Josefa
+2026-04-08 09:50:22 | INFO     |    📋 Datos a introducir -> Inicio: 18/03/2026 | Fin: 18/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:50:22 | INFO     |    🔎 Buscando en listado a: 'SANTILLANA AMOR, NOELIA JOSEFA'
+2026-04-08 09:50:23 | INFO     |    ✅ Profesor encontrado en la página 1
+2026-04-08 09:50:23 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 09:50:25 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 09:50:25 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 09:50:27 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 09:50:27 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 18/03/2026
+2026-04-08 09:50:28 | INFO     |    ⌨️ Escribiendo Fecha Fin: 18/03/2026
+2026-04-08 09:50:29 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 09:50:29 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:50:35 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 09:50:35 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 09:50:35 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 09:50:36 | INFO     |    🎉 ¡EXITO! Ausencia de Santillana Amor, Noelia Josefa registrada en Rayuela.
+2026-04-08 09:50:36 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 09:50:36 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 09:50:40 | INFO     | [62/65] ⏭️ Saltando: Travado Díaz, Juan Carlos (Ya marcado como OK).
+2026-04-08 09:50:40 | INFO     | --------------------------------------------------
+2026-04-08 09:50:40 | INFO     | [63/65] 🔄 PROCESANDO: Valiente Martín, Ana Belén
+2026-04-08 09:50:40 | INFO     |    📋 Datos a introducir -> Inicio: 03/03/2026 | Fin: 05/03/2026 | Horas: '' | Motivo: 'Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2)'
+2026-04-08 09:50:40 | INFO     |    🔎 Buscando en listado a: 'VALIENTE MARTIN, ANA BELEN'
+2026-04-08 09:50:42 | INFO     |    ➡️ Pasando a la página 2...
+2026-04-08 09:50:46 | INFO     |    ✅ Profesor encontrado en la página 2
+2026-04-08 09:50:46 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 09:50:48 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 09:50:48 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 09:50:51 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 09:50:51 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 03/03/2026
+2026-04-08 09:50:51 | INFO     |    ⌨️ Escribiendo Fecha Fin: 05/03/2026
+2026-04-08 09:50:53 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 09:50:53 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso por fallecimiento, accidente o enfermedad grave, por hospitalización o intervención quirúrgica de un familiar (art. 2)'
+2026-04-08 09:50:58 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 09:50:58 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 09:50:59 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 09:50:59 | INFO     |    🎉 ¡EXITO! Ausencia de Valiente Martín, Ana Belén registrada en Rayuela.
+2026-04-08 09:50:59 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 09:50:59 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 09:51:03 | INFO     | --------------------------------------------------
+2026-04-08 09:51:03 | INFO     | [64/65] 🔄 PROCESANDO: Valiente Martín, Ana Belén
+2026-04-08 09:51:03 | INFO     |    📋 Datos a introducir -> Inicio: 13/03/2026 | Fin: 13/03/2026 | Horas: '' | Motivo: 'Permiso para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral. (art. 11)'
+2026-04-08 09:51:03 | INFO     |    🔎 Buscando en listado a: 'VALIENTE MARTIN, ANA BELEN'
+2026-04-08 09:51:04 | INFO     |    ✅ Profesor encontrado en la página 1
+2026-04-08 09:51:04 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 09:51:06 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 09:51:06 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 09:51:08 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 09:51:08 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 13/03/2026
+2026-04-08 09:51:08 | INFO     |    ⌨️ Escribiendo Fecha Fin: 13/03/2026
+2026-04-08 09:51:10 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 09:51:10 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral. (art. 11)'
+2026-04-08 09:51:15 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 09:51:15 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 09:51:16 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 09:51:17 | INFO     |    🎉 ¡EXITO! Ausencia de Valiente Martín, Ana Belén registrada en Rayuela.
+2026-04-08 09:51:17 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 09:51:17 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 09:51:21 | INFO     | --------------------------------------------------
+2026-04-08 09:51:21 | INFO     | [65/65] 🔄 PROCESANDO: Valleros Rodríguez, Pedro
+2026-04-08 09:51:21 | INFO     |    📋 Datos a introducir -> Inicio: 27/03/2026 | Fin: 27/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:51:21 | INFO     |    🔎 Buscando en listado a: 'VALLEROS RODRIGUEZ, PEDRO'
+2026-04-08 09:51:22 | INFO     |    ✅ Profesor encontrado en la página 1
+2026-04-08 09:51:22 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 09:51:25 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 09:51:25 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 09:51:27 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 09:51:27 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 27/03/2026
+2026-04-08 09:51:28 | INFO     |    ⌨️ Escribiendo Fecha Fin: 27/03/2026
+2026-04-08 09:51:29 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 09:51:29 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:51:34 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 09:51:34 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 09:51:35 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 09:51:36 | INFO     |    🎉 ¡EXITO! Ausencia de Valleros Rodríguez, Pedro registrada en Rayuela.
+2026-04-08 09:51:36 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 09:51:36 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 09:51:42 | INFO     | ==================================================
+2026-04-08 09:51:42 | INFO     | 📊 RESUMEN FINAL DE LA EJECUCIÓN:
+2026-04-08 09:51:42 | INFO     |    ⏭️ Filas omitidas (Ya estaban OK): 53
+2026-04-08 09:51:42 | INFO     |    ✅ Nuevas ausencias registradas:   10
+2026-04-08 09:51:42 | INFO     |    ❌ Errores encontrados:            2
+2026-04-08 09:51:42 | INFO     |    📁 Archivo de errores actualizado: errores.csv
+2026-04-08 09:51:42 | INFO     | ==================================================
+2026-04-08 09:55:10 | INFO     | 📂 Leyendo archivo: ausencias.csv
+2026-04-08 09:55:10 | INFO     | 🚀 Iniciando el navegador Chrome...
+2026-04-08 09:55:11 | INFO     | 🌐 Navegando a: https://rayuela.educarex.es/modulo_acceso/
+2026-04-08 09:55:12 | INFO     | 🛑 PASO 1: Inicia sesión en Rayuela.
+2026-04-08 09:55:12 | INFO     | 🛑 PASO 2: Navega hasta el listado de profesores (Página 1).
+2026-04-08 09:56:43 | INFO     | ▶️ Usuario confirmó inicio. Arrancando bucle de procesamiento...
+2026-04-08 09:56:43 | INFO     | [1/65] ⏭️ Saltando: Agúndez Fernández, Laura (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [2/65] ⏭️ Saltando: Agúndez Fernández, Laura (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [3/65] ⏭️ Saltando: Alonso Alegre, María Justa (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [4/65] ⏭️ Saltando: Aranda Calle, M. Ángeles (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [5/65] ⏭️ Saltando: Aranda Calle, M. Ángeles (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [6/65] ⏭️ Saltando: Barquilla Caso, Margarita (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [7/65] ⏭️ Saltando: Barrantes Timón, Alejandro (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [8/65] ⏭️ Saltando: Barrantes Timón, Alejandro (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [9/65] ⏭️ Saltando: Barroso Díaz, Carlos (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [10/65] ⏭️ Saltando: Berrocal Gonzalo, Beatriz (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [11/65] ⏭️ Saltando: Berrocal Gonzalo, Beatriz (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [12/65] ⏭️ Saltando: Bogas Perona, José Hipólito (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [13/65] ⏭️ Saltando: Bogas Perona, José Hipólito (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [14/65] ⏭️ Saltando: Calle Simón, Miguel (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [15/65] ⏭️ Saltando: Calleja Flores, M. Lourdes (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [16/65] ⏭️ Saltando: Cancho Pérez, Álvaro (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [17/65] ⏭️ Saltando: Cerezo Torres-Pardo, María (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [18/65] ⏭️ Saltando: De la Fuente Ubanell, Iñigo (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [19/65] ⏭️ Saltando: Estévez Amado, Cristina (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [20/65] ⏭️ Saltando: Fernández Corcho, María Guadalupe (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [21/65] ⏭️ Saltando: Galán Román, Eduardo (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [22/65] ⏭️ Saltando: Gallardo Concejero, María de los Remedio (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [23/65] ⏭️ Saltando: Garay Serrano, Martín (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [24/65] ⏭️ Saltando: González Benítez, Belén (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [25/65] ⏭️ Saltando: Hernández López, Sergio (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [26/65] ⏭️ Saltando: Iglesias Roso, M. Cristina (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [27/65] ⏭️ Saltando: Iglesias Silva, Beatriz (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [28/65] ⏭️ Saltando: Lasso García, Soledad (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [29/65] ⏭️ Saltando: Lázaro Sánchez, Nicolás José (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [30/65] ⏭️ Saltando: López Bobillo, Natalia Esther (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [31/65] ⏭️ Saltando: López Bobillo, Natalia Esther (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [32/65] ⏭️ Saltando: Lorenzo Prieto, Alberto (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [33/65] ⏭️ Saltando: Lorenzo Prieto, Alberto (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [34/65] ⏭️ Saltando: Marín Silva, Rubén (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [35/65] ⏭️ Saltando: Martín Alonso, Guadalupe (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [36/65] ⏭️ Saltando: Martín Alonso, Guadalupe (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [37/65] ⏭️ Saltando: Martín Largo, María Casiana (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [38/65] ⏭️ Saltando: Mateos González, Óscar Luis (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [39/65] ⏭️ Saltando: Méndez Ruiz, Cristina (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [40/65] ⏭️ Saltando: Merino Jerez, María Belén (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [41/65] ⏭️ Saltando: Moreno Cortés, María Carmen (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [42/65] ⏭️ Saltando: Moreno Cortés, María Carmen (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [43/65] ⏭️ Saltando: Navareño Sánchez, María Inmaculada (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [44/65] ⏭️ Saltando: Ortega Alegre, Rufina (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [45/65] ⏭️ Saltando: Ortega Alegre, Rufina (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [46/65] ⏭️ Saltando: Ortega Alegre, Rufina (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [47/65] ⏭️ Saltando: Peña Sánchez, M.Eva (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [48/65] ⏭️ Saltando: Peña Sánchez, M.Eva (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [49/65] ⏭️ Saltando: Penco Robledo, Antonio Luis (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [50/65] ⏭️ Saltando: Pérez Del Amo, Rocío (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [51/65] ⏭️ Saltando: Pérez Pérez, Agustín (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [52/65] ⏭️ Saltando: Población Romero, Javier (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | [53/65] ⏭️ Saltando: Portugal Iglesias, Raquel (Ya marcado como OK).
+2026-04-08 09:56:43 | INFO     | --------------------------------------------------
+2026-04-08 09:56:43 | INFO     | [54/65] 🔄 PROCESANDO: Regadera Blanco, M. Isabel
+2026-04-08 09:56:43 | INFO     |    📋 Datos a introducir -> Inicio: 13/03/2026 | Fin: 13/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:56:43 | INFO     |    🔎 Buscando en listado a: 'REGADERA BLANCO, M. ISABEL'
+2026-04-08 09:56:46 | INFO     |    ➡️ Pasando a la página 2...
+2026-04-08 09:56:51 | INFO     |    ➡️ Pasando a la página 3...
+2026-04-08 09:56:56 | INFO     |    ➡️ Pasando a la página 4...
+2026-04-08 09:57:01 | INFO     |    ➡️ Pasando a la página 5...
+2026-04-08 09:57:06 | INFO     |    ➡️ Pasando a la página 6...
+2026-04-08 09:57:11 | INFO     |    ➡️ Pasando a la página 7...
+2026-04-08 09:57:15 | INFO     |    ✅ Profesor encontrado en la página 7
+2026-04-08 09:57:15 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 09:57:18 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 09:57:18 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 09:57:20 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 09:57:20 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 13/03/2026
+2026-04-08 09:57:20 | INFO     |    ⌨️ Escribiendo Fecha Fin: 13/03/2026
+2026-04-08 09:57:22 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 09:57:22 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:57:24 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 09:57:24 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 09:57:25 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 09:57:26 | INFO     |    🎉 ¡EXITO! Ausencia de Regadera Blanco, M. Isabel registrada en Rayuela.
+2026-04-08 09:57:26 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 09:57:26 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 09:57:30 | INFO     | [55/65] ⏭️ Saltando: Regadera Blanco, M. Isabel (Ya marcado como OK).
+2026-04-08 09:57:30 | INFO     | --------------------------------------------------
+2026-04-08 09:57:30 | INFO     | [56/65] 🔄 PROCESANDO: Rodríguez Rodríguez, G. Carolina
+2026-04-08 09:57:30 | INFO     |    📋 Datos a introducir -> Inicio: 09/03/2026 | Fin: 10/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 09:57:30 | INFO     |    🔎 Buscando en listado a: 'RODRIGUEZ RODRIGUEZ, G. CAROLINA'
+2026-04-08 09:57:30 | ERROR    |    ❌ FALLO CRÍTICO procesando a Rodríguez Rodríguez, G. Carolina: Alert Text: El número total de horas debe ser mayor que cero.
+Message: unexpected alert open: {Alert text : El número total de horas debe ser mayor que cero.}
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff61ed629c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff61ea8a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff61e7edb2d]
+	chromedriver!(No symbol) [0x7ff61e89461b]
+	chromedriver!(No symbol) [0x7ff61e839298]
+	chromedriver!(No symbol) [0x7ff61e83a183]
+	chromedriver!GetHandleVerifier [0x7ff61ed8de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff61ed88588+313348]
+	chromedriver!GetHandleVerifier [0x7ff61eda9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff61eaa6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff61eaafacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff61ea93634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff61ea937e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff61ea77e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe17a37374+14]
+	ntdll!RtlUserThreadStart [0x7ffe1807cc91+21]
+
+2026-04-08 09:57:30 | INFO     |    🔄 Iniciando protocolo de recuperación para el siguiente profesor...
+2026-04-08 09:57:30 | INFO     |    🖱️ Intentando pulsar 'Volver' (i_VOLVER)...
+2026-04-08 09:57:31 | INFO     | [57/65] ⏭️ Saltando: Sánchez Donaire, Miriam (Ya marcado como OK).
+2026-04-08 09:57:31 | INFO     | [58/65] ⏭️ Saltando: Sánchez González, Lara (Ya marcado como OK).
+2026-04-08 09:57:31 | INFO     | [59/65] ⏭️ Saltando: Sánchez Lucas, María Lourdes (Ya marcado como OK).
+2026-04-08 09:57:31 | INFO     | [60/65] ⏭️ Saltando: Sánchez Mayoral González, Laura (Ya marcado como OK).
+2026-04-08 09:57:31 | INFO     | [61/65] ⏭️ Saltando: Santillana Amor, Noelia Josefa (Ya marcado como OK).
+2026-04-08 09:57:31 | INFO     | [62/65] ⏭️ Saltando: Travado Díaz, Juan Carlos (Ya marcado como OK).
+2026-04-08 09:57:31 | INFO     | [63/65] ⏭️ Saltando: Valiente Martín, Ana Belén (Ya marcado como OK).
+2026-04-08 09:57:31 | INFO     | [64/65] ⏭️ Saltando: Valiente Martín, Ana Belén (Ya marcado como OK).
+2026-04-08 09:57:31 | INFO     | [65/65] ⏭️ Saltando: Valleros Rodríguez, Pedro (Ya marcado como OK).
+2026-04-08 09:57:33 | INFO     | ==================================================
+2026-04-08 09:57:33 | INFO     | 📊 RESUMEN FINAL DE LA EJECUCIÓN:
+2026-04-08 09:57:33 | INFO     |    ⏭️ Filas omitidas (Ya estaban OK): 63
+2026-04-08 09:57:33 | INFO     |    ✅ Nuevas ausencias registradas:   1
+2026-04-08 09:57:33 | INFO     |    ❌ Errores encontrados:            1
+2026-04-08 09:57:33 | INFO     |    📁 Archivo de errores actualizado: errores.csv
+2026-04-08 09:57:33 | INFO     | ==================================================
+2026-04-08 10:02:20 | INFO     | 📂 Leyendo archivo: ausencias.csv
+2026-04-08 10:02:20 | INFO     | 🚀 Iniciando el navegador Chrome...
+2026-04-08 10:02:21 | INFO     | 🌐 Navegando a: https://rayuela.educarex.es/modulo_acceso/
+2026-04-08 10:02:22 | INFO     | 🛑 PASO 1: Inicia sesión en Rayuela.
+2026-04-08 10:02:22 | INFO     | 🛑 PASO 2: Navega hasta el listado de profesores (Página 1).
+2026-04-08 10:02:52 | INFO     | ▶️ Usuario confirmó inicio. Arrancando bucle de procesamiento...
+2026-04-08 10:02:52 | INFO     | [1/65] ⏭️ Saltando: Agúndez Fernández, Laura (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [2/65] ⏭️ Saltando: Agúndez Fernández, Laura (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [3/65] ⏭️ Saltando: Alonso Alegre, María Justa (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [4/65] ⏭️ Saltando: Aranda Calle, M. Ángeles (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [5/65] ⏭️ Saltando: Aranda Calle, M. Ángeles (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [6/65] ⏭️ Saltando: Barquilla Caso, Margarita (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [7/65] ⏭️ Saltando: Barrantes Timón, Alejandro (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [8/65] ⏭️ Saltando: Barrantes Timón, Alejandro (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [9/65] ⏭️ Saltando: Barroso Díaz, Carlos (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [10/65] ⏭️ Saltando: Berrocal Gonzalo, Beatriz (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [11/65] ⏭️ Saltando: Berrocal Gonzalo, Beatriz (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [12/65] ⏭️ Saltando: Bogas Perona, José Hipólito (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [13/65] ⏭️ Saltando: Bogas Perona, José Hipólito (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [14/65] ⏭️ Saltando: Calle Simón, Miguel (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [15/65] ⏭️ Saltando: Calleja Flores, M. Lourdes (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [16/65] ⏭️ Saltando: Cancho Pérez, Álvaro (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [17/65] ⏭️ Saltando: Cerezo Torres-Pardo, María (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [18/65] ⏭️ Saltando: De la Fuente Ubanell, Iñigo (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [19/65] ⏭️ Saltando: Estévez Amado, Cristina (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [20/65] ⏭️ Saltando: Fernández Corcho, María Guadalupe (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [21/65] ⏭️ Saltando: Galán Román, Eduardo (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [22/65] ⏭️ Saltando: Gallardo Concejero, María de los Remedio (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [23/65] ⏭️ Saltando: Garay Serrano, Martín (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [24/65] ⏭️ Saltando: González Benítez, Belén (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [25/65] ⏭️ Saltando: Hernández López, Sergio (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [26/65] ⏭️ Saltando: Iglesias Roso, M. Cristina (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [27/65] ⏭️ Saltando: Iglesias Silva, Beatriz (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [28/65] ⏭️ Saltando: Lasso García, Soledad (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [29/65] ⏭️ Saltando: Lázaro Sánchez, Nicolás José (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [30/65] ⏭️ Saltando: López Bobillo, Natalia Esther (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [31/65] ⏭️ Saltando: López Bobillo, Natalia Esther (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [32/65] ⏭️ Saltando: Lorenzo Prieto, Alberto (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [33/65] ⏭️ Saltando: Lorenzo Prieto, Alberto (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [34/65] ⏭️ Saltando: Marín Silva, Rubén (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [35/65] ⏭️ Saltando: Martín Alonso, Guadalupe (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [36/65] ⏭️ Saltando: Martín Alonso, Guadalupe (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [37/65] ⏭️ Saltando: Martín Largo, María Casiana (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [38/65] ⏭️ Saltando: Mateos González, Óscar Luis (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [39/65] ⏭️ Saltando: Méndez Ruiz, Cristina (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [40/65] ⏭️ Saltando: Merino Jerez, María Belén (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [41/65] ⏭️ Saltando: Moreno Cortés, María Carmen (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [42/65] ⏭️ Saltando: Moreno Cortés, María Carmen (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [43/65] ⏭️ Saltando: Navareño Sánchez, María Inmaculada (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [44/65] ⏭️ Saltando: Ortega Alegre, Rufina (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [45/65] ⏭️ Saltando: Ortega Alegre, Rufina (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [46/65] ⏭️ Saltando: Ortega Alegre, Rufina (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [47/65] ⏭️ Saltando: Peña Sánchez, M.Eva (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [48/65] ⏭️ Saltando: Peña Sánchez, M.Eva (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [49/65] ⏭️ Saltando: Penco Robledo, Antonio Luis (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [50/65] ⏭️ Saltando: Pérez Del Amo, Rocío (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [51/65] ⏭️ Saltando: Pérez Pérez, Agustín (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [52/65] ⏭️ Saltando: Población Romero, Javier (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [53/65] ⏭️ Saltando: Portugal Iglesias, Raquel (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [54/65] ⏭️ Saltando: Regadera Blanco, M. Isabel (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | [55/65] ⏭️ Saltando: Regadera Blanco, M. Isabel (Ya marcado como OK).
+2026-04-08 10:02:52 | INFO     | --------------------------------------------------
+2026-04-08 10:02:52 | INFO     | [56/65] 🔄 PROCESANDO: Rodríguez Rodríguez, G. Carolina
+2026-04-08 10:02:52 | INFO     |    📋 Datos a introducir -> Inicio: 09/03/2026 | Fin: 10/03/2026 | Horas: '' | Motivo: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 10:02:52 | INFO     |    🔎 Buscando en listado a: 'RODRIGUEZ RODRIGUEZ, G. CAROLINA'
+2026-04-08 10:02:54 | INFO     |    ➡️ Pasando a la página 2...
+2026-04-08 10:02:59 | INFO     |    ➡️ Pasando a la página 3...
+2026-04-08 10:03:05 | INFO     |    ➡️ Pasando a la página 4...
+2026-04-08 10:03:10 | INFO     |    ➡️ Pasando a la página 5...
+2026-04-08 10:03:15 | INFO     |    ➡️ Pasando a la página 6...
+2026-04-08 10:03:20 | INFO     |    ➡️ Pasando a la página 7...
+2026-04-08 10:03:25 | INFO     |    ✅ Profesor encontrado en la página 7
+2026-04-08 10:03:25 | INFO     |    🖱️ Intentando abrir menú contextual y hacer clic en 'Nueva Ausencia'...
+2026-04-08 10:03:27 | INFO     |    ✅ Menú 'Nueva Ausencia' abierto correctamente.
+2026-04-08 10:03:27 | INFO     |    📝 Esperando a que cargue el formulario...
+2026-04-08 10:03:29 | INFO     |    🪟 Usando frame del cuerpo en la misma ventana.
+2026-04-08 10:03:29 | INFO     |    ⌨️ Escribiendo Fecha Inicio: 09/03/2026
+2026-04-08 10:03:30 | INFO     |    ⌨️ Escribiendo Fecha Fin: 10/03/2026
+2026-04-08 10:03:31 | INFO     |    ⏩ Campo 'Horas Lectivas' vacío en CSV. Se omite.
+2026-04-08 10:03:31 | INFO     |    🖱️ Desplegando combo de Motivos buscando: 'Permiso por asuntos particulares (art. 13)'
+2026-04-08 10:03:35 | INFO     |    ✅ Motivo seleccionado con éxito.
+2026-04-08 10:03:35 | INFO     |    💾 Navegando a la botonera para guardar...
+2026-04-08 10:03:36 | INFO     |    🖱️ Pulsando botón 'Aceptar' (i_ACEPTAR)...
+2026-04-08 10:03:37 | INFO     |    🎉 ¡EXITO! Ausencia de Rodríguez Rodríguez, G. Carolina registrada en Rayuela.
+2026-04-08 10:03:37 | INFO     |    📝 Archivo CSV actualizado (Registrado = OK).
+2026-04-08 10:03:37 | INFO     |    ⏳ Esperando a que la web vuelva al listado principal (4s)...
+2026-04-08 10:03:41 | INFO     | [57/65] ⏭️ Saltando: Sánchez Donaire, Miriam (Ya marcado como OK).
+2026-04-08 10:03:41 | INFO     | [58/65] ⏭️ Saltando: Sánchez González, Lara (Ya marcado como OK).
+2026-04-08 10:03:41 | INFO     | [59/65] ⏭️ Saltando: Sánchez Lucas, María Lourdes (Ya marcado como OK).
+2026-04-08 10:03:41 | INFO     | [60/65] ⏭️ Saltando: Sánchez Mayoral González, Laura (Ya marcado como OK).
+2026-04-08 10:03:41 | INFO     | [61/65] ⏭️ Saltando: Santillana Amor, Noelia Josefa (Ya marcado como OK).
+2026-04-08 10:03:41 | INFO     | [62/65] ⏭️ Saltando: Travado Díaz, Juan Carlos (Ya marcado como OK).
+2026-04-08 10:03:41 | INFO     | [63/65] ⏭️ Saltando: Valiente Martín, Ana Belén (Ya marcado como OK).
+2026-04-08 10:03:41 | INFO     | [64/65] ⏭️ Saltando: Valiente Martín, Ana Belén (Ya marcado como OK).
+2026-04-08 10:03:41 | INFO     | [65/65] ⏭️ Saltando: Valleros Rodríguez, Pedro (Ya marcado como OK).
+2026-04-08 10:03:44 | INFO     | ==================================================
+2026-04-08 10:03:44 | INFO     | 📊 RESUMEN FINAL DE LA EJECUCIÓN:
+2026-04-08 10:03:44 | INFO     |    ⏭️ Filas omitidas (Ya estaban OK): 64
+2026-04-08 10:03:44 | INFO     |    ✅ Nuevas ausencias registradas:   1
+2026-04-08 10:03:44 | INFO     |    ❌ Errores encontrados:            0
+2026-04-08 10:03:44 | INFO     |    📁 Archivo de errores actualizado: errores.csv
+2026-04-08 10:03:44 | INFO     | ==================================================
+2026-04-17 11:14:46 | INFO     | 📂 Leyendo archivo: ausencias.csv
+2026-04-17 11:14:46 | INFO     | 🚀 Iniciando el navegador Chrome...
+2026-04-17 11:14:56 | INFO     | 🌐 Navegando a: https://rayuela.educarex.es/modulo_acceso/
+2026-04-17 11:14:56 | INFO     | 🛑 PASO 1: Inicia sesión en Rayuela.
+2026-04-17 11:14:56 | INFO     | 🛑 PASO 2: Navega hasta el listado de profesores (Página 1).

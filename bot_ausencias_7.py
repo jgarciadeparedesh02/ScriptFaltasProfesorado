@@ -23,9 +23,9 @@ print(f"📂 Leyendo {ARCHIVO_CSV}...")
 
 # Intentamos leer con diferentes codificaciones para evitar errores
 try:
-    df = pd.read_csv(ARCHIVO_CSV, sep=',', dtype=str, encoding='utf-8').fillna("")
+    df = pd.read_csv(ARCHIVO_CSV, sep=';', dtype=str, encoding='utf-8').fillna("")
 except UnicodeDecodeError:
-    df = pd.read_csv(ARCHIVO_CSV, sep=',', dtype=str, encoding='latin-1').fillna("")
+    df = pd.read_csv(ARCHIVO_CSV, sep=';', dtype=str, encoding='latin-1').fillna("")
 
 # Verificar si existe la columna 'Registrado'. Si no, la creamos vacía.
 if COLUMNA_ESTADO not in df.columns:
